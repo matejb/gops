@@ -2,17 +2,43 @@
 
 This repo contains links and samples of various Go language project structures.
 
-It still WIP.
+It is a WIP.
 
-## Links
+Folder contain example structure for the following application:
+
+Web application for a small office library. 
+Users are allowed to browse book titles, borrow them and write reviews on them.
+
+## Sampled project structures
+
+* [Ben Johnson project structure A](ben_johnson/libraryA/README.md)
+* [Ben Johnson project structure B](ben_johnson/libraryB/README.md)
+* [Peter Bourgon simple project structure](peter_bourgon/librarySimple/README.md)
+* [Peter Bourgon complex project structure](peter_bourgon/libraryA/README.md)
+* [Standard Go project layout](standard_go_project_layout/README.md)
+* [William Kennedy project structure](william_kennedy/README.md)
+
+
+## Resources
+
+https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1
+
+https://www.ardanlabs.com/blog/2017/02/package-oriented-design.html
+
+https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091
+
+https://peter.bourgon.org/go-best-practices-2016/#repository-structure
+
+https://peter.bourgon.org/go-in-production/
+
+https://github.com/golang-standards/project-layout
 
 https://blog.gopheracademy.com/advent-2016/go-and-package-focused-design/
-https://www.ardanlabs.com/blog/2017/02/package-oriented-design.html
+
 https://dave.cheney.net/2014/12/01/five-suggestions-for-setting-up-a-go-project
-https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091
-https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1
+
 https://flaviocopes.com/go-filesystem-structure/
-https://peter.bourgon.org/go-best-practices-2016/#repository-structure
-https://peter.bourgon.org/go-in-production/
+
 https://github.com/thockin/go-build-template
+
 https://peter.bourgon.org/go-for-industrial-programming/
