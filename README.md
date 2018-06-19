@@ -11,7 +11,7 @@ Users are allowed to browse book titles, borrow them and write reviews on them.
 
 ## Sampled project structures
 
-* [Ben Johnson project structure A](ben_johnson/libraryA.md)
+* [Ben Johnson project structure A](ben_johnson/libraryA)
 * [Ben Johnson project structure B](ben_johnson/libraryB)
 * [Peter Bourgon simple project structure](peter_bourgon/librarySimple)
 * [Peter Bourgon complex project structure](peter_bourgon/libraryA)
