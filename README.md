@@ -11,12 +11,12 @@ Users are allowed to browse book titles, borrow them and write reviews on them.
 
 ## Sampled project structures
 
-* [Ben Johnson project structure A](ben_johnson/libraryA/README.md)
-* [Ben Johnson project structure B](ben_johnson/libraryB/README.md)
-* [Peter Bourgon simple project structure](peter_bourgon/librarySimple/README.md)
-* [Peter Bourgon complex project structure](peter_bourgon/libraryA/README.md)
-* [Standard Go project layout](standard_go_project_layout/README.md)
-* [William Kennedy project structure](william_kennedy/README.md)
+* [Ben Johnson project structure A](ben_johnson/libraryA.md)
+* [Ben Johnson project structure B](ben_johnson/libraryB)
+* [Peter Bourgon simple project structure](peter_bourgon/librarySimple)
+* [Peter Bourgon complex project structure](peter_bourgon/libraryA)
+* [Standard Go project layout](standard_go_project_layout)
+* [William Kennedy project structure](william_kennedy)
 
 
 ## Resources
